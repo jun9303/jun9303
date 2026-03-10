@@ -2,8 +2,8 @@
 - 👀 I’m interested in ... CFD, scientific computing, parallelization, optimization, and so on.
 - 🌱 I’m currently learning ... anything in trend!
 - 💞️ I’m looking to collaborate on ... ML-based PDE solver for a physical-based complex system (e.g., turbulent flow with particles)
-- 📫 How to reach me ... https://sangjoonlee.info/
-- 🎉 Fun stuff ... Airfoil Shape Reconstruction via RL ([Interactive Demo](https://sangjoonlee.info/AfGenRL_Interactive_Demo/))
+- 📫 How to reach me ... https://jun9303.github.io/
+- 🎉 Fun stuff ... Airfoil Shape Reconstruction via RL ([Interactive Demo](https://jun9303.github.io/AfGenRL_Interactive_Demo/))
 
 <!---
 jun9303/jun9303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
